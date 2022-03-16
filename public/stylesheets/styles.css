@@ -5,3 +5,22 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+ nav a{
+     text-decoration: none;
+     margin: 10px;   
+     border: 2px solid blue;
+     padding: 10px;
+     color: wheat;
+     background-color: blue;
+ }
+
+ .button1{
+     position: absolute;
+     right: 708px;
+     bottom: 225px;
+ }
+ .button2{
+    position: absolute;
+    right: 683px;
+    bottom: 178px;
+}
